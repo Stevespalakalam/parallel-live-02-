@@ -1,0 +1,8 @@
+{
+  "name": "Parallel Live Clone",
+  "description": "A high-fidelity simulation of a celebrity live stream with fake viewer counts, scrolling comments, and guest split-screens.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
